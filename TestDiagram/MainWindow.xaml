@@ -1,0 +1,9 @@
+﻿<Window x:Class="TestDiagram.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:diagram="clr-namespace:DevExpress.Xpf.Diagram.Tests.Samples"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+    <Grid>
+        <diagram:BasicDiagram />
+    </Grid>
+</Window>
